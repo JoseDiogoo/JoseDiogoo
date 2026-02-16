@@ -40,23 +40,6 @@ Tenho especial interesse em **Backend, Arquitetura de Software, Bases de Dados e
 
 ---
 
-## 🚀 Projeto Final de Curso
-
-### 🔎 Vec4ensics  
-**Procura Semântica para Investigação Digital Forense**
-
-O **Vec4ensics** é uma aplicação que permite pesquisa semântica em grandes volumes de documentos, ultrapassando as limitações da pesquisa tradicional baseada em palavras-chave.
-
-### 🔧 Principais Funcionalidades
-- Geração de **embeddings de texto**
-- Indexação vetorial com **FAISS**
-- Pesquisa por **similaridade semântica**
-- Processamento de documentos (PDF, DOCX, XLSX)
-
-### 🧠 Tecnologias
-Python • NLP • FAISS • Estruturas vetoriais de alta dimensão
-
-
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
