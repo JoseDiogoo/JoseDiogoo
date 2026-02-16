@@ -59,14 +59,14 @@ Tenho especial interesse em **Backend, Arquitetura de Software, Bases de Dados e
 </p>
 
 ---
-
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=JoseDiogoo&theme=tokyonight&hide_border=true" />
+  <img 
+    height="180"
+    src="https://streak-stats.demolab.com?user=JoseDiogoo&theme=tokyonight&hide_border=true"
+  />
 </p>
-
----
 
 ## 📫 Contactos
 
