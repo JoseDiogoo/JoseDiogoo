@@ -3,7 +3,7 @@
 **`Estudante de Engenharia Informática`**
 
 Chamo-me **José Diogo Moleirinho Tojeira** e realizei a **Licenciatura em Engenharia Informática** no Instituto Politécnico de Leiria.  
-Encontro-me atualmente a concluir o curso, faltando apenas uma unidade curricular.
+
 
 Tenho especial interesse em **Backend, Arquitetura de Software, Bases de Dados e Inteligência Artificial**, procurando desenvolver soluções robustas, modulares e escaláveis.
 
